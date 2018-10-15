@@ -29,12 +29,12 @@ Namespace Expander
 
         Private Sub SetAutoCorrectOptions()
 '            #Region "#options"
-            Dim сorrectionOptions As AutoCorrectOptions = richEditControl1.Options.AutoCorrect
+            Dim correctionOptions As AutoCorrectOptions = richEditControl1.Options.AutoCorrect
 
-            сorrectionOptions.CorrectTwoInitialCapitals = True
-            сorrectionOptions.DetectUrls = False
-            сorrectionOptions.ReplaceTextAsYouType = True
-            сorrectionOptions.UseSpellCheckerSuggestions = True
+            correctionOptions.CorrectTwoInitialCapitals = True
+            correctionOptions.DetectUrls = False
+            correctionOptions.ReplaceTextAsYouType = True
+            correctionOptions.UseSpellCheckerSuggestions = True
 '            #End Region ' #options
 
         End Sub
