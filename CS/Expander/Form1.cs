@@ -30,12 +30,12 @@ The list has been downloaded from http://www.mtdaily.com/abbvs.txt. To indicate 
         private void SetAutoCorrectOptions()
         {
             #region #options
-            AutoCorrectOptions сorrectionOptions = richEditControl1.Options.AutoCorrect;
+            AutoCorrectOptions correctionOptions = richEditControl1.Options.AutoCorrect;
 
-            сorrectionOptions.CorrectTwoInitialCapitals = true;
-            сorrectionOptions.DetectUrls = false;
-            сorrectionOptions.ReplaceTextAsYouType = true;
-            сorrectionOptions.UseSpellCheckerSuggestions = true;
+            correctionOptions.CorrectTwoInitialCapitals = true;
+            correctionOptions.DetectUrls = false;
+            correctionOptions.ReplaceTextAsYouType = true;
+            correctionOptions.UseSpellCheckerSuggestions = true;
             #endregion #options
 
         }
