@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Expander/Form1.cs) (VB: [Form1.vb](./VB/Expander/Form1.vb))
+* [Program.cs](./CS/Expander/Program.cs) (VB: [Program.vb](./VB/Expander/Program.vb))
+<!-- default file list end -->
 # Text expander application that uses the Autocorrect feature 
 
 
