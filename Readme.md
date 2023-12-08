@@ -14,7 +14,7 @@ This example loads the Mary Morken's 2007 list of abbreviations for medical tran
 
 * [Form1.cs](./CS/Expander/Form1.cs) (VB: [Form1.vb](./VB/Expander/Form1.vb))
 * [Program.cs](./CS/Expander/Program.cs) (VB: [Program.vb](./VB/Expander/Program.vb))
-* [abbvs.txt](.CS/Expander/abbvs.txt)
+* [abbvs.txt](./CS/Expander/abbvs.txt)
 
 ## Documentation
 
